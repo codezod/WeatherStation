@@ -10,6 +10,9 @@
 using namespace std;
 
 int main() {
-	cout << "!!!Hello World päivitetty 2x!!!" << endl; // prints !!!Hello World!!!
+	int someNumber;
+
+	cout << "Anna numero" << endl;
+	cin >> someNumber;
 	return 0;
 }
